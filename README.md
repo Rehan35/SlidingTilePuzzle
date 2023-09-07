@@ -7,9 +7,9 @@ Uses A-Star algorithmic approach with multiple allowed heuristics (L norms).
 - L2 Norm: Also known as Euclidean Distance, this heuristic calculates the coordinate distance between the current position of the piece and its correct position.
 
 # Algorithms Used
-- Breadth First Search\  
-- Depth First Search\
-- Greedy Best First Search\
+- Breadth First Search  
+- Depth First Search
+- Greedy Best First Search
 - A Star algorithm
 
 # Command Line Arguments
